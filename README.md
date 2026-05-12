@@ -16,5 +16,5 @@ This repository contains my cybersecurity learning notes, Linux practice, networ
 
 ## Progress
 - [x] Day 1 Completed
-- [ ] Day 2
+- [x] Day 2
 - [ ] Day 3
